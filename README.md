@@ -6,5 +6,5 @@
 
 - :mortar_board: I'm currently a high school student with an interest in cybersecurity 
 - :books: I'm learning with GitHub skills and docs
-- :camera: My hobbies inlcude reading, photography and snowboarding  
+- 🏂: My hobbies inlcude reading and snowboarding  
 
